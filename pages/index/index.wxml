@@ -1,0 +1,7 @@
+<view class="page">
+  <view class="page_container">
+    <view class="page_container__image"><image src="../../images/star.png"/></view>
+    <view class="page_container__title">饭饭</view>
+    <view class="page_container_info">连接一千位铁杆粉丝</view>
+  </view>
+</view>

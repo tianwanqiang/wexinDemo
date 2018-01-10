@@ -1,0 +1,50 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/list/list",
+    "pages/main/main",
+    "pages/main/createStars/createStars",
+    "pages/me/me",
+    "pages/me/wallet/wallet",
+    "pages/me/myPush/myPush",
+    "pages/message/myMessage/myMessage",
+    "pages/message/starsInfo/starsInfo",
+    "pages/message/message",
+    "pages/starsList/starsList",
+    "pages/me/ActiveStarsRank/ActiveStarsRank"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "white",
+    "navigationBarTitleText": "",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "selectedColor": "#14b392",
+    "borderStyle": "#dddee0",
+    "backgroundColor": "white",
+    "color": "gray",
+    "list": [
+      {
+        "text": "集中营",
+        "pagePath": "pages/list/list",
+        "iconPath": "images/stars.png",
+        "selectedIconPath": "images/stars_sel.png"
+      },
+      {
+        "text": "去打卡",
+        "pagePath": "pages/main/main",
+        "iconPath": "images/message.png",
+        "selectedIconPath": "images/message_sel.png"
+      },
+     
+      {
+        "text": "我",
+        "pagePath": "pages/me/me",
+        "iconPath": "images/me.png",
+        "selectedIconPath": "images/me_sel.png"
+      }
+    ]
+  },
+  "debug": false
+}

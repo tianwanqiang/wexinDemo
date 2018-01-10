@@ -1,0 +1,16 @@
+<view>
+  <!-- index.wxml -->
+  <textarea auto-focus="true" id="desc" placeholder='说点什么。' bindinput='bindWordLimit'></textarea>
+  <image src='../../images/loc.png' bindtap="locationViewTap"></image>
+  <text>{{whereami}}</text>
+  <text class="lenthCount" bindtap='bindWordLimit'>{{countLength}}/140字</text>
+  <view class="line"></view>
+  <view class='img' wx:for="{{imgs}}" wx:for-item="item" wx:key="*this">
+     <image class="imgItem" src='{{item}}' mode='aspecFill' bindtap='previewImg' data-index="{{index}}"></image>
+  </view>
+  <view class="upload-img-btn" bindtap="chooseImg">
+    <image src='../../images/add.png'></image>
+  </view>
+  <view class="div"></view>
+   <button form-type="submit" type='primary'>打卡</button>
+</view>

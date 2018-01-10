@@ -1,0 +1,26 @@
+<view>
+  <view class='rect'>
+    <image src='../../images/list.jpg' class="listimg"></image>
+    <text class='listtxt'>每天坚持，我要做自己的男神</text>
+    <image>点赞</image>
+    <image>喜欢</image>
+  </view>
+  <view class='rect'>
+    <image src='../../images/list.jpg' class="listimg"></image>
+    <text class='listtxt'>每天坚持1，我要做自己的男神</text>
+    <image>点赞</image>
+    <image>喜欢</image>
+  </view>
+  <view class='rect'>
+    <image src='../../images/list.jpg' class="listimg"></image>
+    <text class='listtxt'>每天坚持2，我要做自己的男神</text>
+    <image>点赞</image>
+    <image>喜欢</image>
+  </view>
+  <view class='rect'>
+    <image src='../../images/list.jpg' class="listimg"></image>
+    <text class='listtxt'>每天坚持2，我要做自己的男神</text>
+    <image>点赞</image>
+    <image>喜欢</image>
+  </view>
+</view>
