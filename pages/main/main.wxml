@@ -6,7 +6,7 @@
   <text class="lenthCount" bindtap='bindWordLimit'>{{countLength}}/140字</text>
   <view class="line"></view>
   <view class='img' wx:for="{{imgs}}" wx:for-item="item" wx:key="*this">
-     <image class="imgItem" src='{{item}}' mode='aspecFill' bindtap='previewImg' data-index="{{index}}"></image>
+     <image class="imgItem" src='{{item}}' mode='aspecFill' bindtap='previewImg'  data-index="{{index}}"></image>
   </view>
   <view class="upload-img-btn" bindtap="chooseImg">
     <image src='../../images/add.png'></image>
