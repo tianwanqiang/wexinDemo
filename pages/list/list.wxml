@@ -1,29 +1,37 @@
 <view>
   <view class='rect'>
     <image src='../../images/list.jpg' class="listimg"></image>
-    <text class='listtxt'>每天坚持，我要做自己的男神</text>
-    <image src='../../images/hand.jpg'>点赞</image>
-    <image>喜欢</image>
+    <text class='listtxt'>每天坚持，我要做自己的男神!</text>
+    <text class='littlefont'>点赞</text>
+    <image src='../../images/zan.png' alt="点赞" title="点赞" mode="aspectFit" style='float:right;'></image>
+    <text class='littlefont'>喜欢</text>
+    <image src='../../images/love.png' alt="喜欢" title="喜欢" mode="aspectFit" style='float:right;'></image>
   </view>
   <view class='rect'>
     <image src='../../images/list.jpg' class="listimg"></image>
     <text class='listtxt'>每天坚持1，我要做自己的男神</text>
-    <image>点赞</image>
-    <image>喜欢</image>
+    <text class='littlefont'>点赞</text>
+    <image src='../../images/zan.png' alt="点赞" title="点赞" width="5" height="5" style='float:right;'></image>
+   <text class='littlefont'>喜欢</text>
+    <image src='../../images/love.png' alt="喜欢" title="喜欢" width="5" height="5" style='float:right;'></image>
   </view>
   <view class='rect'>
     <image src='../../images/list.jpg' class="listimg"></image>
     <text class='listtxt'>每天坚持2，我要做自己的男神</text>
-    <image>点赞</image>
-    <image>喜欢</image>
+    <text class='littlefont'>点赞</text>
+    <image src='../../images/zan.png' alt="点赞" title="点赞" width="5" height="5" style='float:right;'></image>
+    <text class='littlefont'>喜欢</text>
+    <image src='../../images/love.png' alt="喜欢" title="喜欢" width="5" height="5" style='float:right;'></image>
   </view>
   <view class='rect'>
     <image src='../../images/list.jpg' class="listimg"></image>
     <text class='listtxt'>每天坚持2，我要做自己的男神</text>
-    <image>点赞</image>
-    <image>喜欢</image>
+    <text class='littlefont'>点赞</text>
+    <image src='../../images/zan.png' alt="点赞" title="点赞" width="5" height="5" style='float:right;'></image>
+    <text class='littlefont'>喜欢</text>
+    <image src='../../images/love.png' alt="喜欢" title="喜欢" width="5" height="5" style='float:right;'></image>
   </view>
   <view>
-    我叫
+
   </view>
 </view>

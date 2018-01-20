@@ -44,3 +44,11 @@ button{
   height: 32px;
   width: 32px;
 }
+
+.littlefont{
+font-size: 2;
+color:red;
+display: block;
+float: right;
+border: 1px solid pink;
+}

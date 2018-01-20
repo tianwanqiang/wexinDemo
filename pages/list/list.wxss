@@ -1,4 +1,10 @@
-/* pages/list/list.wxss */
+/* pages/list/list.wxss 任务一： css基本功 任务二：学习css实战应用 */
 .rect{
- flex: auto
+ flex: auto;
+ border: 1px solid pink;
+ padding: 2 auto;
+ margin: 3px auto;
+ width: 100%;
+ height: 250px;
+
 }
