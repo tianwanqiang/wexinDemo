@@ -1,35 +1,51 @@
 <view>
   <view class='rect'>
     <image src='../../images/list.jpg' class="listimg"></image>
-    <text class='listtxt'>每天坚持，我要做自己的男神!</text>
+    <text class='listtxt'>坚持第一天，我要做自己的男神</text>
     <text class='littlefont'>点赞</text>
-    <image src='../../images/zan.png' alt="点赞" title="点赞" mode="aspectFit" style='float:right;'></image>
+    <image src='../../images/zan.png' alt="点赞" class="picture" style='float:right;'></image>
     <text class='littlefont'>喜欢</text>
-    <image src='../../images/love.png' alt="喜欢" title="喜欢" mode="aspectFit" style='float:right;'></image>
+    <image src='../../images/love.png' alt="喜欢"  class="picture" style='float:right;'></image>
   </view>
   <view class='rect'>
     <image src='../../images/list.jpg' class="listimg"></image>
-    <text class='listtxt'>每天坚持1，我要做自己的男神</text>
+    <text class='listtxt'>坚持第二天，我要做自己的男神</text>
     <text class='littlefont'>点赞</text>
-    <image src='../../images/zan.png' alt="点赞" title="点赞" width="5" height="5" style='float:right;'></image>
+    <image src='../../images/zan.png' class="picture" alt="点赞"  style='float:right;'></image>
    <text class='littlefont'>喜欢</text>
-    <image src='../../images/love.png' alt="喜欢" title="喜欢" width="5" height="5" style='float:right;'></image>
+    <image src='../../images/love.png' class="picture" alt="喜欢" style='float:right;'></image>
   </view>
   <view class='rect'>
     <image src='../../images/list.jpg' class="listimg"></image>
-    <text class='listtxt'>每天坚持2，我要做自己的男神</text>
+    <text class='listtxt'>坚持第三天，我要做自己的男神</text>
     <text class='littlefont'>点赞</text>
-    <image src='../../images/zan.png' alt="点赞" title="点赞" width="5" height="5" style='float:right;'></image>
+    <image src='../../images/zan.png' class="picture" alt="点赞" style='float:right;'></image>
     <text class='littlefont'>喜欢</text>
-    <image src='../../images/love.png' alt="喜欢" title="喜欢" width="5" height="5" style='float:right;'></image>
+    <image src='../../images/love.png' class="picture" alt="喜欢"style='float:right;'></image>
   </view>
   <view class='rect'>
     <image src='../../images/list.jpg' class="listimg"></image>
-    <text class='listtxt'>每天坚持2，我要做自己的男神</text>
+    <text class='listtxt'>坚持第四天，我要做自己的男神</text>
     <text class='littlefont'>点赞</text>
-    <image src='../../images/zan.png' alt="点赞" title="点赞" width="5" height="5" style='float:right;'></image>
+    <image src='../../images/zan.png' class="picture"  alt="点赞" style='float:right;'></image>
     <text class='littlefont'>喜欢</text>
-    <image src='../../images/love.png' alt="喜欢" title="喜欢" width="5" height="5" style='float:right;'></image>
+    <image src='../../images/love.png' class="picture" alt="喜欢" style='float:right;'></image>
+  </view>
+    <view class='rect'>
+    <image src='../../images/list.jpg' class="listimg"></image>
+    <text class='listtxt'>坚持第五天，我要做自己的男神</text>
+    <text class='littlefont'>点赞</text>
+    <image src='../../images/zan.png' class="picture"  alt="点赞" style='float:right;'></image>
+    <text class='littlefont'>喜欢</text>
+    <image src='../../images/love.png' class="picture" alt="喜欢" style='float:right;'></image>
+  </view>
+    <view class='rect'>
+    <image src='../../images/list.jpg' class="listimg"></image>
+    <text class='listtxt'>坚持第六天，我要做自己的男神</text>
+    <text class='littlefont'>点赞</text>
+    <image src='../../images/zan.png' class="picture"  alt="点赞" style='float:right;'></image>
+    <text class='littlefont'>喜欢</text>
+    <image src='../../images/love.png' class="picture" alt="喜欢" style='float:right;'></image>
   </view>
   <view>
 
