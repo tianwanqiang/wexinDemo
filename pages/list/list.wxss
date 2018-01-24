@@ -1,7 +1,8 @@
 /* pages/list/list.wxss 任务一： css基本功 任务二：学习css实战应用 */
 .rect{
  flex: auto;
- background-color:#b0c4de;
+ /*background-color:#b0c4de;*/
+ background-color:whitesmoke;
  border: 1px solid pink;
  padding: 2 auto;
  margin: 1px auto;
@@ -10,10 +11,13 @@
 }
 .littlefont{
 font-family:"aTimes New Roman";
-color:#000;
+/*color:2px solid #a1a1f1;*/
 font-size:15px;
-border:1px solid gray;
+/*color:darkkhaki;*/
+color:black;
 margin-top: 5px;
+border-radius:25px;
+border:1px solid black;
 }
 .picture{
 width:20px;
@@ -25,4 +29,13 @@ margin-top: 5px;
   font-family: Serif ;
   font-weight:bold;
   font-variant:small-caps;
+  color:black;
+  margin-top:5px;
+}
+.listimg{
+  margin-top:5px;
+  width:25px;
+  height:30px;
+  border:1px solid 0em;
+  margin-right: 5px;
 }
